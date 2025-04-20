@@ -42,6 +42,12 @@ Key Metrics Visualized:
 7)Loss Function during Training
 
 8)Training Time Comparison between MBO, BDO, and Hybrid approaches
+Results:
+
+![image](https://github.com/user-attachments/assets/658a88dc-5943-49ec-9444-2ed962199e6c)
+
+![image](https://github.com/user-attachments/assets/d4d283cf-1ee9-4c12-aa9b-d2fd0f78e2dd)
+
 
 Conclusion:
 The hybrid MARL approach (DQN + MBO + BDO) shows improved performance over standalone methods in smart city load balancing simulations. It reduces energy consumption, enhances PDR, and improves training efficiency.
