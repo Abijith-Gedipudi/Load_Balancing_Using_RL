@@ -1,4 +1,4 @@
-#  Load Balancing and Smart City Optimization using Hybrid MARL (MBO + BDO + DQN)
+#  Load Balancing and Smart City Optimization using Hybrid MARL (MBO + BDO + DQN)(Mini Project)
 
 ##  Description  
 This project optimizes **load balancing** and **smart city resource allocation** using a **Hybrid Multi-Agent Reinforcement Learning (MARL)** strategy. It combines:
